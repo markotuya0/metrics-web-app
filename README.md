@@ -2,11 +2,11 @@
 
 # Football
 
->Football is a website that shows leagues and their teams. This is a cpsone project for the React and Redux Module.
+>Metrics Dog app is a website that shows a variety of dogs and their breeds. This is a capstone project for the React and Redux Module.
 
 By building this application, I learned how to use React and Redux.
 
-## [Live Demo](https://farida-hamid.github.io/Football/public/)
+## [Live Demo]()
 
 ## [Presentation]()
 
@@ -25,22 +25,18 @@ Open (http://localhost:3000) to view it in your browser.
 
 ## Built With
 
-- React
-- HTML/CSS/JS-Es6
-- NPM
-- Webpack
-- ES Modules
-- Linters
-- ESX
-- Github actions
-- [Football-API](https://github.com/ichala/football-api-microverse)
+- React.js
+- Redux
+- JavaScript
+- CSS3
+- TheDogApi
 
 ## Authors
 
-👤 **Farida Hamid**
+👤 **Mark Otuya**
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/farida-hamid)
-- GitHub: [@Farida-Hamid](https://github.com/Farida-Hamid)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/markotuya0)
+- GitHub: [@mark-otuya](https://github.com/markotuya0)
 
 ## Acknowledgments
 - Design inspired by the Creative Commons design by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
@@ -50,11 +46,11 @@ Open (http://localhost:3000) to view it in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Farida-Hamid/todo-list/issues).
+Feel free to check the [issues page](https://github.com/markotuya0/metrics-web-app/issues).
 
 ## Show your support
 
-Give a [⭐️](https://github.com/Farida-Hamid/todo-list) if you like this project!
+Give a [⭐️](https://github.com/markotuya0/metrics-web-app/) if you like this project!
 
 ## 📝 License
 
