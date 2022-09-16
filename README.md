@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Football
+# Dog Breeds
 
 >Metrics Dog app is a website that shows a variety of dogs and their breeds. This is a capstone project for the React and Redux Module.
 
