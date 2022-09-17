@@ -30,33 +30,33 @@ function Art() {
         artlist.filter((value) => {
           // eslint-disable-next-line
           if (allData == '') {
-            return value;
-          } if (value.title.toLowerCase().includes(allData.toLowerCase())) {
-            return value;
-          }
-        }).map((art) => (
-          <Link key={art.id} className="card" to={`/${art.id}`}>
-            <div key={art.id}>
-              <div className="card_imgs">
-                <div className="ci">
-                  <img className="d-img" src={art.image} alt={art.alttext} />
-                  <img className="f-btn" src={img} alt="" />
+              return value;
+            } if (value.title.toLowerCase().includes(allData.toLowerCase())) {
+              return value;
+            }
+          }).map((art) => (
+            <Link key={art.id} className="card" to={`/${art.id}`}>
+              <div key={art.id}>
+                <div className="card_imgs">
+                  <div className="ci">
+                    <img className="d-img" src={art.image} alt={art.alttext} />
+                    <img className="f-btn" src={img} alt="" />
+                  </div>
                 </div>
+                <article className="title">
+                  <h1>
+                    {art.title}
+                  </h1>
+                  <i>
+                    Life Span:
+                    {' '}
+                    {art.life_span}
+                  </i>
+                </article>
               </div>
-              <article className="title">
-                <h1>
-                  {art.title}
-                </h1>
-                <i>
-                  Life Span:
-                  {' '}
-                  {art.life_span}
-                </i>
-              </article>
-            </div>
-          </Link>
-        ))
-)}
+            </Link>
+          ))
+        )}
       </div>
     </div>
   );
