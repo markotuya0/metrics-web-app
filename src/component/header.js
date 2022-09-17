@@ -7,7 +7,7 @@ function Header() {
     <header>
       <img className="headerImg" src={img} alt="" />
       <div>
-        <h1 className="h-text">list of  Dog breeds</h1>
+        <h1 className="h-text">Dog breeds</h1>
         <p>172 breeds</p>
       </div>
     </header>
