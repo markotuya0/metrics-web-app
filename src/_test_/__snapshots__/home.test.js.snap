@@ -14,7 +14,7 @@ exports[`Render components render HomePage 1`] = `
       <h1
         className="h-text"
       >
-        Dog breeds
+        list of  Dog breeds
       </h1>
       <p>
         172 breeds
@@ -34,39 +34,18 @@ exports[`Render components render HomePage 1`] = `
   <div
     id="card-con"
   >
-    <a
-      className="card"
-      href="/kjvgjk"
-      onClick={[Function]}
+    <div
+      className="loading-container"
     >
-      <div>
-        <div
-          className="card_imgs"
-        >
-          <div
-            className="ci"
-          >
-            <img
-              className="d-img"
-            />
-            <img
-              alt=""
-              className="f-btn"
-              src="icons8-forward-button-100.png"
-            />
-          </div>
-        </div>
-        <article
-          className="title"
-        >
-          <h1 />
-          <i>
-            Life Span:
-             
-          </i>
-        </article>
-      </div>
-    </a>
+      <img
+        alt="loading"
+        className="loading"
+        src="load.png"
+      />
+      <p>
+        Loading data...
+      </p>
+    </div>
   </div>
 </div>
 `;
