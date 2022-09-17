@@ -6,7 +6,7 @@
 
 By building this application, I learned how to use React and Redux.
 
-## [Live Demo](https://markotuya0.github.io/metrics-web-app/)
+## [Live Demo]([https://markotuya0.github.io/metrics-web-app/](https://dogbreeds-app.netlify.app/))
 
 ## [Presentation](https://www.loom.com/share/5ecc1478e97c4a5d9987c0fc680e5dba)
 
