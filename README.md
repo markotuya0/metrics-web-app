@@ -6,7 +6,8 @@
 
 By building this application, I learned how to use React and Redux.
 
-## [Live Demo](https://effervescent-boba-b17a3a.netlify.app/)
+## [Live Demo](https://dogbreeds-app.netlify.app/)
+
 
 ## [Presentation](https://www.loom.com/share/5ecc1478e97c4a5d9987c0fc680e5dba)
 
