@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Metrics Dog Breeds
+# Metrics Dog Breed app
 >The Metrics dog web app is a web platform that shows a variety of dog breeds and their skills.
 API used for fetching data: TheDogApi
 The app is fully mobile responsive and tested using Jest and the React Testing Library.
