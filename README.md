@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Dog Breeds
-
->Metrics Dog app is a website that shows a variety of dogs and their breeds. This is a capstone project for the React and Redux Module.
+# Metrics Dog Breeds
+>The Metrics dog web app is a web platform that shows a variety of dog breeds and their skills.
+API used for fetching data: TheDogApi
+The app is fully mobile responsive and tested using Jest and the React Testing Library.
+This is a capstone project for the React and Redux Module.
 
 By building this application, I learned how to use React and Redux.
 
