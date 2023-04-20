@@ -6,7 +6,7 @@ API used for fetching data: TheDogApi
 The app is fully mobile responsive and tested using Jest and the React Testing Library.
 This is a capstone project for the React and Redux Module.
 
-By building this application, I learned how to use React and Redux.
+By building this application, I put my knowledge of  React and Redux to use.
 
 ## [Live Demo](https://marks-metrics-app.netlify.app/)
 ## [Presentation](https://www.loom.com/share/5ecc1478e97c4a5d9987c0fc680e5dba)
